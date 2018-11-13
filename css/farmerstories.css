@@ -1,0 +1,18 @@
+.farmer-wrapper {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (1fr)[4];
+      grid-template-columns: repeat(4, 1fr);
+  -ms-grid-rows: 500px;
+      grid-template-rows: 500px;
+  grid-gap: 0px;
+}
+
+.farmer-wrapper .farmer-box {
+  padding: 0px;
+  margin: 0px;
+  background-size: cover;
+  background-position: center center;
+  text-align: center;
+}
+/*# sourceMappingURL=farmerstories.css.map */

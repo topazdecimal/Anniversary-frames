@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAqBA,AAAA,eAAe,CAAA;EACX,OAAO,EAAE,IAAI;EACb,qBAAqB,EAAE,cAAc;EACrC,kBAAkB,EAAE,KAAK;EACzB,QAAQ,EAAE,GAAG;CAkBhB;;AAtBD,AAOI,eAPW,CAOX,WAAW,CAAA;EACP,OAAO,EAAC,GAAG;EACX,MAAM,EAAC,GAAG;EACV,eAAe,EAAE,KAAK;EACtB,mBAAmB,EAAE,aAAa;EAClC,UAAU,EAAC,MAAM;CASpB",
+    "sources": [
+        "farmerstories.scss"
+    ],
+    "names": [],
+    "file": "farmerstories.css"
+}
